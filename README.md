@@ -4,10 +4,10 @@
 
  This repository is an organized collection of useful screenshots from the course for reference
  
-`git-notes-part-1:` Covers `GIT notations` and `Head -SHA algorithm`
+1. `git-notes-part-1:` Covers `GIT notations` and `Head -SHA algorithm`
 
-`git-notes-part-2:` Covers `tracking changes`
+2. `git-notes-part-2:` Covers `tracking changes`
  
-`git-notes-part-3:` Covers `moving and renaming` and `concept of .gitignore`
+3. `git-notes-part-3:` Covers `moving and renaming` and `concept of .gitignore`
 
-`git-notes-part-4:` Covers `tracking empty directories` and `other miscellaneous topics`
+4. `git-notes-part-4:` Covers `tracking empty directories` and `other miscellaneous topics`
